@@ -1,8 +1,29 @@
-Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+Kyle Hamble
+Biography
+DS 710
+9/12/2016
+
 1. What is your name?
+My name is Kyle Hamble
+
 2. Why are you interested in Data Science?
+I've always been interested in working with statistics and I enjoy coding.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have quite a bit of programming experience. Initially, I started working with programming while in the Marine Corps as a calibration technician.
+After I got out, I went to college at UW-Eau Claire for Information Systems focusing on systems development. I have taken courses that focused on
+SQL, Visual Basic, HTML, and Java. Currently I am a software developer at Schreiber Foods and use SQL, Visual Basic, JavaScript and some C.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I used statistics heavily in the Marine Corps when testing tolerances for electronic gear. I took a basic statistics course in college because
+my major didn't require us to even take a statistics course, but I was interested in taking it. I enjoyed it though. I don't use much statistics on the job at Schreiber, 
+but they are going to allow me to see how our business intelligence unit works with forecasting and how it's coded.
+
 5.  Do you have other experience with R or Python?
+I do not have any experience in R or Python programming.
+
 6.  What do you hope to learn in this class?
+I hope to gain a better understanding of each of these coding languages and how they can be applied to a business situation.
+
 7.  Is there anything else you would like to share with us?
+I look forward to meeting everyone and learning from everyone as well. Also, go Packers!
